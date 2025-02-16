@@ -8,9 +8,9 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-country="DE" tvg-language="Spanish" group-title="Generales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE1.png" tvg-country="ES" tvg-language="Spanish" group-title="Generales",La 1
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVE1.png" tvg-country="ES" tvg-language="Spanish" group-title="Generales",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.ar" tvg-name="Fox Sports 1 FHD (ᴀʀɢ) ᶜˡᵃʳ" tvg-logo="http://209.126.82.213/Argentina/foxsports_ar.png" group-title="Generales",Fox Sports 1 FHD (ᴀʀɢ) ᶜˡᵃʳ
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Argentina/foxsports_ar.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",Fox Sports 1 FHD
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417245.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 (ᴀʀɢ) ᵗᵛᵐ" tvg-logo="http://209.126.82.213/Argentina/foxsports2_ar.png" group-title="Generales",Fox Sports 2 (ᴀʀɢ) ᵗᵛᵐ
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Argentina/foxsports2_ar.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",Fox Sports 2
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/417244.m3u8
